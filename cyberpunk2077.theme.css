@@ -8,8 +8,16 @@
  * @donate https://www.paypal.com/donate/?hosted_button_id=PGVKB863SXYUQ
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+        
+            
 @import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
+
+:root{
+    --font-family: 'Noto Sans';
+}
+        
+        
 
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
